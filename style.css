@@ -33,7 +33,7 @@ body, html {
 }
 .bg input {
     outline-style: none;
-    background-image: url('images/moon.png');
+    background-image: url('moon.png');
     border-radius: 40%;
     height: 30px;
     width: 70px;
@@ -126,12 +126,12 @@ section.fadeIn{
                 }
 
 .switch-wrapper .sun {
-                        background: url(images/white_sun_with_rays.png) no-repeat center;
+                        background: url(white_sun_with_rays.png) no-repeat center;
                         background-size: 100%;
                     }
 
 body.night .switch-wrapper .sun , html.night .switch-wrapper .sun {
-                        background: url(images/sun-white.svg) no-repeat center;
+                        background: url(sun-white.svg) no-repeat center;
                         background-size: 100%;
                     }
 
@@ -194,12 +194,12 @@ body.night .switch-wrapper .sun , html.night .switch-wrapper .sun {
                     }
 
 .switch-wrapper .moon {
-                        background: url(images/moon.png) no-repeat center;
+                        background: url(moon.png) no-repeat center;
                         background-size: 100%;
                     }
 
 body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
-                        background: url(images/moon-white.svg) no-repeat center;
+                        background: url(moon-white.svg) no-repeat center;
                         background-size: 100%;
                     }
 
@@ -318,7 +318,7 @@ body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
 }
 
 .intro_hello .wave-hand {
-    background-image: url(images/waving-hand.png);
+    background-image: url(waving-hand.png);
     margin-left: 10px;
     cursor: pointer;
     position: relative;
@@ -339,7 +339,7 @@ body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
 }
 
 .intro_tagline .technologist {
-    background-image: url(images/male-technologist.png);
+    background-image: url(male-technologist.png);
 }
 
 .intro_tagline .emoji {
@@ -353,7 +353,7 @@ body.night .switch-wrapper .moon, html.night .switch-wrapper .moon {
 }
 
 .intro_contact .emoji.pointer {
-    background-image: url(images/right-pointing.png);
+    background-image: url(right-pointing.png);
     width: 30px;
     height: 30px;
     margin: 0 5px;
@@ -630,7 +630,7 @@ body .arrow-link:after, html .arrow-link:after {
     bottom: 2px;
     margin-left: 15px;
     content: "";
-    background: url(images/arrow.png) no-repeat center;
+    background: url(arrow.png) no-repeat center;
     background-size: 100%;
     width: 15px;
     height: 15px;
